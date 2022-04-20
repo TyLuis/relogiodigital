@@ -2,4 +2,6 @@
 Relogio digital feito utilizando HTML, Javascript e CSS, feito com propósitos de estudo
 
 Relógio tem atualização de hora, minutos e segundos automático, com dots que irá preenchendo a barra de acordo com que o tempo passa.
-![Sem título](https://user-images.githubusercontent.com/52267200/164335123-d125cae8-0aef-4add-9c71-27b20b011767.png)
+
+
+![bloggif_62608a2ff2de9](https://user-images.githubusercontent.com/52267200/164335901-b81fb047-fb87-4677-b828-6b7bbde1408e.gif)
