@@ -3,6 +3,8 @@ Relogio digital feito utilizando HTML, Javascript e CSS, feito com propósitos d
 
 Relógio tem atualização de hora, minutos e segundos automático, com dots que irá preenchendo a barra de acordo com que o tempo passa.
 
+Acesse https://tyluis.github.io/relogiodigital/ para ver em tempo real ^^!
+
 
 ![bloggif_62608a2ff2de9](https://user-images.githubusercontent.com/52267200/164335901-b81fb047-fb87-4677-b828-6b7bbde1408e.gif)
 
